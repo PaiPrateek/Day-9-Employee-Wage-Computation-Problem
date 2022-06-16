@@ -2,11 +2,12 @@
 
 namespace EmployeeWageComputationProblem
 {
-    internal class Program
+    public  class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            EmpWage.CheckEmpWage();
+            EmpWage.CheckEmpWage("Infosys", 100, 20, 150);
+            EmpWage.CheckEmpWage("TATA", 80, 22, 100);
         }
     }
 }
