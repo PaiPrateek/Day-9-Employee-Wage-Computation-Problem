@@ -64,7 +64,9 @@ namespace EmployeeWageComputationProblem
             Console.WriteLine("Total Employee Wage is :" + TotaklEmpWage);
             Console.WriteLine("...............................");
             Console.WriteLine("...............................");
+            Console.WriteLine("Total Employee Wage for Company:" + Company +" " + "is : " + TotaklEmpWage);
 
         }
+
     }
 }

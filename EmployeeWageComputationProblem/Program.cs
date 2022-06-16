@@ -10,4 +10,5 @@ namespace EmployeeWageComputationProblem
             EmpWage.CheckEmpWage("TATA", 80, 22, 100);
         }
     }
+    
 }
